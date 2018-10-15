@@ -32,7 +32,7 @@ void main() {
 
 	printf("%30.20g", sum);
 
-
+	//test
 }
 
 
